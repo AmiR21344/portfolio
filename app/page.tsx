@@ -27,6 +27,7 @@ const Home = () => {
         <CareerGoals />
         <RecentProjects/>
        
+       
        <Experience/>
        <Approach/>
        <Footer/>
